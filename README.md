@@ -389,9 +389,12 @@ function toBase64(text) {
 
 let code = encodeBoard(`@input`);
 
-document.getElementById("logic_emu@0").src="https://liascript.github.io/logicemu_template/docs/index.html#code="+code ;
+let iframe = document.getElementById("logic_emu@0");
 
-//code;
+iframe.contentWindow.location.reload(true);
+
+iframe.src = "https://liascript.github.io/logicemu_template/docs/index.html#code="+code ;
+
 "LIA: stop";
 </script>
 
