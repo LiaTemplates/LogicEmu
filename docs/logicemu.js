@@ -8871,7 +8871,7 @@ function countSlowGraphicalDivs() {
 
 function setDocumentTitle(text) {
   document.title = 'LogicEmu: ' + text;
-  circuitName.innerText = 'Current Circuit: ' + text;
+  //circuitName.innerText = 'Current Circuit: ' + text;
 }
 
 var firstParse = true; // to keep scrolled down if you were scrolled down before refresh
