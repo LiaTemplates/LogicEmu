@@ -393,7 +393,9 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.src = "https://liascript.github.io/logicemu_template/docs/index.html#code="+code ;
+iframe.contentWindow.location.replace("https://liascript.github.io/logicemu_template/docs/index.html#code="+code);
+
+//iframe.contentWindow.location.reload(true);
 
 "LIA: stop";
 </script>
