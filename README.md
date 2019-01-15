@@ -394,7 +394,7 @@ document.getElementById("logic_emu@0").src="file:////home/andre/Workspace/Projec
 "LIA: stop";
 </script>
 
-<iframe id="logic_emu@0" width="100%" height="500px" src=""></iframe>
+<iframe id="logic_emu@0" width="100%" height="400px" src=""></iframe>
 
 @end
 

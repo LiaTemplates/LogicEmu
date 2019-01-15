@@ -9188,19 +9188,19 @@ var menuRows = makeElementAt('div', 0, 0);
 menuRows.style.position = 'fixed';
 menuRows.style.display = 'block';
 menuRows.style.width = '100%';
-menuRows.style.height = '100px';
+menuRows.style.height = '40px';
 
-var menuRow1El = makeElementAt('span', 0, 0, menuRows);
-var menuRow2El = makeElementAt('span', 0, 48, menuRows);
+//var menuRow1El = makeElementAt('span', 0, 0, menuRows);
+var menuRow2El = makeElementAt('span', 0, 0, menuRows);
 //var menuRow3El = makeElementAt('span', 0, 80, menuRows);
 var menuRow3El = menuRow2El;
 
 menuRows.style.zIndex = 5; // can be anything as long as it's higher than what we assign to editarea
 
-menuRow1El.style.background = '#f8f8f8';
-menuRow1El.style.position = 'absolute';
-menuRow1El.style.width = '100%';
-menuRow1El.style.height = '48px';
+//menuRow1El.style.background = '#f8f8f8';
+//menuRow1El.style.position = 'absolute';
+//menuRow1El.style.width = '100%';
+//menuRow1El.style.height = '48px';
 menuRow2El.style.background = '#f8f8f8';
 menuRow2El.style.position = 'absolute';
 menuRow2El.style.width = '100%';
