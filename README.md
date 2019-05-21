@@ -21,7 +21,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liascript.github.io/logicemu_template/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
 
 "LIA: stop";
 </script>
@@ -40,7 +40,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liascript.github.io/logicemu_template/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
 </script>
 
 <iframe id="logic_emu@0" width="100%" height="400px" src=""></iframe>
@@ -432,11 +432,11 @@ and executable.
 
 __Try it on LiaScript:__
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/logicemu_template/master/README.md
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/logicemu/master/README.md
 
 __See the project on Github:__
 
-https://github.com/liaScript/logicemu_template
+https://github.com/liaTemplates/logicemu
 
                                    --{{1}}--
 There are three ways to use this template. The easiest way is to use the
@@ -449,7 +449,7 @@ and change it, as you wish.
                                      {{1}}
 1. Load the macros via
 
-   `import: https://raw.githubusercontent.com/liaScript/logicemu_template/master/README.md`
+   `import: https://raw.githubusercontent.com/liaTemplates/logicemu/master/README.md`
 
 2. Copy the definitions into your Project
 
@@ -531,7 +531,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liascript.github.io/logicemu_template/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
 
 "LIA: stop";
 </script>
@@ -550,7 +550,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liascript.github.io/logicemu_template/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
 </script>
 
 <iframe id="logic_emu@0" width="100%" height="400px" src=""></iframe>
@@ -936,4 +936,4 @@ If you want to minimize loading effort in your LiaScript project, you can also
 copy this code and paste it into your main comment header, see the code in the
 raw file of this document.
 
-{{1}} https://raw.githubusercontent.com/liaScript/logicemu_template/master/README.md
+{{1}} https://raw.githubusercontent.com/liaTemplates/logicemu/master/README.md
