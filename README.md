@@ -21,7 +21,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/LogicEmu/docs/index.html#code="+code);
 
 "LIA: stop";
 </script>
@@ -40,7 +40,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/LogicEmu/docs/index.html#code="+code);
 </script>
 
 <iframe id="logic_emu@0" width="100%" height="400px" src=""></iframe>
@@ -531,7 +531,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/LogicEmu/docs/index.html#code="+code);
 
 "LIA: stop";
 </script>
@@ -550,7 +550,7 @@ let iframe = document.getElementById("logic_emu@0");
 
 iframe.contentWindow.location.reload(true);
 
-iframe.contentWindow.location.replace("https://liatemplates.github.io/logicemu/docs/index.html#code="+code);
+iframe.contentWindow.location.replace("https://liatemplates.github.io/LogicEmu/docs/index.html#code="+code);
 </script>
 
 <iframe id="logic_emu@0" width="100%" height="400px" src=""></iframe>
