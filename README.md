@@ -422,7 +422,7 @@ function toBase64(text) {
 
 -->
 
-# LogicEmu_template
+# LogicEmu - Template
 
                                    --{{0}}--
 This document makes the logic emulator [logicemu](https://lodev.org/logicemu/)
