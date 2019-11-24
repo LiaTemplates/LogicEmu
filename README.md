@@ -3,11 +3,13 @@ author:   André Dietrich
 
 email:    andre.dietrich@ovgu.de
 
-version:  0.0.2
+version:  0.0.4
 
 language: en
 
 narrator: US English Female
+
+logo:     https://raw.githubusercontent.com/lvandeve/logicemu/master/screenshot_add.png
 
 comment:  Use LogicEmu to create any kind of logic emulations based on ASCII-diagrams.
 
